@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=%20HyunJng%20gitHub%20&fontSize=70&textBg=true" />
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=%20HyunJng%20gitHub%20&fontSize=60&fontColor=d896ff" />
+</div>
 
-
-* 블로그: [tistory_blog](https://hyun-jng.tistory.com/manage)
-* notion: 준비중...!
 <div align=center>
   반갑습니다 😊 <br>
   백엔드를 공부하고 있는 김현정이라고 합니다.<br>
@@ -12,8 +11,8 @@
 <br><br>
 <div align=center>
   ☁<strong> SNS </strong>☁ <br>
-  <a href="https://hyun-jng.tistory.com/manage"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/notion-808080?style=for-the-badge&logo=notion&logoColor=white">
+  <a href="https://hyun-jng.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/notion-808080?style=for-the-badge&logo=notion&logoColor=white"></a>
 </div>
 <br><br>
 <div align=center>
