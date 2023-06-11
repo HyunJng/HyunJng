@@ -13,8 +13,8 @@
    khjung1654@gmail.com
 </div>
 <br><br>
-<div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khjung1654)] (https://solved.ac/khjung1654/)
+<div align=center>
+  [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=khjung1654)](https://solved.ac/khjung1654)
 </div>
 <br><br>
 
