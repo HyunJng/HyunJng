@@ -1,13 +1,6 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=%20HyunJng%20gitHub%20&fontSize=60&fontColor=d896ff" />
 </div>
-
-<div align=center>
-  반갑습니다 😊 <br>
-  백엔드를 공부하고 있는 김현정이라고 합니다.<br>
-  현재 세종대학교 전자정보통신과를 재학 중이며 <br>
-  항상 개발자로써 더 나아가기 위해 노력하고 있습니다!<br>
-</div>
 <br><br>
 <div align=center>
   ☁<strong> SNS </strong>☁ <br>
@@ -20,6 +13,11 @@
    khjung1654@gmail.com
 </div>
 <br><br>
+<div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khjung1654)] (https://solved.ac/khjung1654/)
+</div>
+<br><br>
+
 <div align=center>
   <hr>
   🛠 <strong>Teck Stack</strong> 🛠
