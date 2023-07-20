@@ -4,8 +4,8 @@
 </div>
 
 ## ☁ SNS
-![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white")
-![Notion](https://img.shields.io/badge/notion-808080?style=for-the-badge&logo=notion&logoColor=white")
+[![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white")](https://hyun-jng.tistory.com/)
+
 ## 📧 Email
 khjung1654@gmail.com
 ## 🌷 Solved.ac Stats
