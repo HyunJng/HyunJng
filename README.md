@@ -4,7 +4,6 @@
 </div>
 
 ## ☁ SNS
-[![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://hyun-jng.tistory.com/)
 [![NAVER](https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=tistory&logoColor=white")](https://blog.naver.com/khjung1654)
 
 ## 📧 Email
