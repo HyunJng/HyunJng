@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=Venom&color=31EDF0FF&height=300&section=header&text=Hi🖐️%20I'm%20HyunJng&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%F0%9F%96%90%EF%B8%8F%20I%27m%20HyunJng&fontSize=55&fontColor=ffffff&customColorList=18)
 </div>
 
 ## ⚙️ Tech Stack
